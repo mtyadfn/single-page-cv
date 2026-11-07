@@ -19,3 +19,5 @@ Inside this single-page digital CV, I have included my educational background al
 - **Web Development Project:** A minimalist hotel landing page website built using **HTML** and **CSS** layouts.
 
 Through this project, I learned the importance of meaningful (semantic) HTML structures for accessibility and search engines (SEO). It also helped me understand how to prepare professional meta tags before moving on to advanced visual styling.
+
+https://roadmap.sh/projects/single-page-cv
