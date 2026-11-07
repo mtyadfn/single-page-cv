@@ -9,7 +9,7 @@ This project is an implementation of the [Single-Page CV](https://roadmap.sh) ch
 - **Favicon:** Custom icon displayed on the browser tab.
 
 ## 🛠️ How to Run the Project Locally
-1. Clone or download this repository to your local computer.
+1. Clone or download this repository to your local computer. (https://github.com/mtyadfn/single-page-cv)
 2. Open the project folder.
 3. Open the `index.html` file using your web browser or run it via the *Live Server* extension in VS Code.
 
@@ -20,4 +20,4 @@ Inside this single-page digital CV, I have included my educational background al
 
 Through this project, I learned the importance of meaningful (semantic) HTML structures for accessibility and search engines (SEO). It also helped me understand how to prepare professional meta tags before moving on to advanced visual styling.
 
-https://roadmap.sh/projects/single-page-cv
+
